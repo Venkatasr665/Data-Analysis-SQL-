@@ -1,4 +1,4 @@
-# Data Analysis using SQL
+# Financial Data - Analysis using SQL
 
 I conducted a data analysis exercise using SQL and derived high-level insights from the data. For this analysis, I created a sample financial dataset.
 
